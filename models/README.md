@@ -36,10 +36,4 @@ Our main project file is **music_recommender.ipynb** file. This recommendation s
 * Create Playlist Vector
 * Generate Recommendation using cosine similarity
 
-So according to this project, we will take an image of an user and predict emotion using **Emotion Detection** model. By prioritizing the songs from our main dataset **kaggleSpotifyMoodFinal.csv** with music mood comparing with different face emotion, this system will generate top 40 songs to recommend for a particular spotify playlist. 
-
-
-
-
-Spotify Dataset link: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks **(Spotify Dataset 1922-2021, ~600k Tracks)**                               
-Dataset for mood Classifier link: https://github.com/cristobalvch/Spotify-Machine-Learning/tree/master/data **(data_moods.csv)**
+We will take an real time image of an user and predict emotion using **Emotion Detection** model. By prioritizing the songs from our main dataset **kaggleSpotifyMoodFinal.csv** with music mood comparing with different face emotion, this system will generate top 40 songs to recommend for a particular spotify playlist. 
