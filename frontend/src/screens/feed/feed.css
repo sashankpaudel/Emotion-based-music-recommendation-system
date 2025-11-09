@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Paaji+2:wght@400..800&display=swap');
+
+.feed-container{
+    width: 100%;
+    height: 100%;
+    /* background-color: #1e2a3e; */
+    border-radius: 30px;
+    background-image: url("../../../public/abstract-azure-haze-darkness.jpg");
+    opacity: 1;
+    
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.list-song{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap:40px;
+    justify-content: center;
+}
+
+.labelName{
+    color: rgb(255, 255, 255);
+}
+
+.button{
+    
+    background-color: #099337;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "Baloo Paaji 2", sans-serif;
+    font-size: 25px;
+    margin: 3rem;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+.labels{
+    font-family: "Baloo Paaji 2", sans-serif;
+    font-size: 22px;
+}
+
+.webcam{
+    width: 50%;
+    /* height: 80% */
+    border-radius: 30px;
+    background-color: #1f1f1f;
+    opacity: 1;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.texts{
+    font-family: "Baloo Paaji 2", sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+.albumImage{
+    cursor: pointer;
+}

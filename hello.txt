@@ -1,0 +1,1 @@
+hello hi i am from models as a static file

@@ -1,0 +1,15 @@
+.screen-container {
+  width: calc(100% - 150px);
+  height: 100vh;
+  border-radius: 30px;
+  background-color: #000000;
+  background-image: url("../../public/abstract-azure-haze-darkness.jpg");
+  background-size: cover;
+  opacity: 1;
+  /* background-image:  repeating-radial-gradient( circle at center left, transparent 0, #000000 100px ), repeating-linear-gradient( #23232455, #111e58 ); */
+  color: white;
+}
+.flex {
+  display: flex;
+}
+
